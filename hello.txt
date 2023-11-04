@@ -1,2 +1,5 @@
 hello  2nd commit feature branch edited
+
 Conflict purpose on master branch
+Conflict purpose on feature branch
+
